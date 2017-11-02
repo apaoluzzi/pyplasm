@@ -90,7 +90,7 @@ IMPORTANT: do not install brew since it can cause conflicts with the following i
 	sudo xcodebuild -project PyPlasm.xcodeproj -target install    -configuration Release
 
 -----------------------------------------------------------
-Windows 7/8 compilation 
+Windows 7/8/../10 compilation 
 -----------------------------------------------------------
 
 Install:
